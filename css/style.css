@@ -1,0 +1,70 @@
+  /* add custom styles for mobile */
+  @media screen and (max-width: 576px) {
+    .card-body {
+      font-size: 14px;
+    }
+    .form-check-label {
+      margin-left: 15px;
+    }
+    .btn {
+      font-size: 12px;
+    }
+  }
+
+  .pagination {
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.pagination a {
+display: inline-block;
+padding: 10px;
+background-color: #f9f9f9;
+border: 1px solid #ddd;
+margin: 0 5px;
+text-decoration: none;
+color: #666;
+}
+
+.pagination a:hover {
+background-color: #ddd;
+}
+
+.pagination .active {
+background-color: #4CAF50;
+color: white;
+border: 1px solid #4CAF50;
+}
+
+@media (max-width: 767px) {
+.pagination a {
+  padding: 5px;
+  font-size: 14px;
+  margin: 0 2px;
+}
+}
+
+
+ /* Additional styling for the cards */
+ .card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.card-img-top {
+  border-radius: 8px 8px 0 0;
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
