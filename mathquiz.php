@@ -217,188 +217,138 @@
       ],
       "correctAnswer": "b"
       },
-    //   {
-    //   "question": "Find the HCF of 42 and 56.",
-    //   "answers": [
-    //   {"label": "6", "value": "a"},
-    //   {"label": "7", "value": "b"},
-    //   {"label": "14", "value": "c"},
-    //   {"label": "21", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "Find the LCM of 9 and 12.",
-    //   "answers": [
-    //   {"label": "12", "value": "a"},
-    //   {"label": "18", "value": "b"},
-    //   {"label": "24", "value": "c"},
-    //   {"label": "36", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
+      {
+      "question": "Find the HCF of 42 and 56.",
+      "answers": [
+      {"label": "6", "value": "a"},
+      {"label": "7", "value": "b"},
+      {"label": "14", "value": "c"},
+      {"label": "21", "value": "d"}
+      ],
+      "correctAnswer": "c"
+      },
+      {
+      "question": "Find the LCM of 9 and 12.",
+      "answers": [
+      {"label": "12", "value": "a"},
+      {"label": "18", "value": "b"},
+      {"label": "24", "value": "c"},
+      {"label": "36", "value": "d"}
+      ],
+      "correctAnswer": "d"
+      },
 
-    //   {
-    //   "question": "If the ratio of apples to oranges is 2:3 and there are 10 apples, how many oranges are there?",
-    //   "answers": [
-    //   {"label": "5", "value": "a"},
-    //   {"label": "15", "value": "b"},
-    //   {"label": "20", "value": "c"},
-    //   {"label": "30", "value": "d"}
-    //   ],
-    //   "correctAnswer": "d"
-    //   },
-    //   {
-    //   "question": "The ratio of boys to girls in a class is 3:4. If there are 27 girls, how many boys are there?",
-    //   "answers": [
-    //   {"label": "18", "value": "a"},
-    //   {"label": "27", "value": "b"},
-    //   {"label": "36", "value": "c"},
-    //   {"label": "48", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "The ratio of the length of a rectangle to its width is 5:2. If the width is 6 cm, what is the length?",
-    //   "answers": [
-    //   {"label": "12 cm", "value": "a"},
-    //   {"label": "15 cm", "value": "b"},
-    //   {"label": "18 cm", "value": "c"},
-    //   {"label": "24 cm", "value": "d"}
-    //   ],
-    //   "correctAnswer": "d"
-    //   },
-    //   {
-    //   "question": "The average weight of a group of 5 people is 60 kg. If a person with a weight of 70 kg joins the group, what will be the new average weight?",
-    //   "answers": [
-    //   {"label": "60 kg", "value": "a"},
-    //   {"label": "62 kg", "value": "b"},
-    //   {"label": "64 kg", "value": "c"},
-    //   {"label": "66 kg", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
+      {
+      "question": "If the ratio of apples to oranges is 2:3 and there are 10 apples, how many oranges are there?",
+      "answers": [
+      {"label": "5", "value": "a"},
+      {"label": "15", "value": "b"},
+      {"label": "20", "value": "c"},
+      {"label": "30", "value": "d"}
+      ],
+      "correctAnswer": "b"
+      },
+      {
+      "question": "The ratio of boys to girls in a class is 3:4. If there are 27 girls, how many boys are there?",
+      "answers": [
+      {"label": "18", "value": "a"},
+      {"label": "27", "value": "b"},
+      {"label": "20", "value": "c"},
+      {"label": "48", "value": "d"}
+      ],
+      "correctAnswer": "c"
+      },
+      {
+      "question": "The ratio of the length of a rectangle to its width is 5:2. If the width is 6 cm, what is the length?",
+      "answers": [
+      {"label": "12 cm", "value": "a"},
+      {"label": "15 cm", "value": "b"},
+      {"label": "18 cm", "value": "c"},
+      {"label": "24 cm", "value": "d"}
+      ],
+      "correctAnswer": "b"
+      },
+      {
+      "question": "The average weight of a group of 5 people is 60 kg. If a person with a weight of 70 kg joins the group, what will be the new average weight?",
+      "answers": [
+      {"label": "60.67 kg", "value": "a"},
+      {"label": "62.67 kg", "value": "b"},
+      {"label": "64.67 kg", "value": "c"},
+      {"label": "66.67 kg", "value": "d"}
+      ],
+      "correctAnswer": "b"
+      },
             
-    //   {
-    //   "question": "The average score of a cricket team for 5 matches is 180 runs. If the average score for the first 4 matches is 170 runs, what was the score in the 5th match?",
-    //   "answers": [
-    //   {"label": "170 runs", "value": "a"},
-    //   {"label": "180 runs", "value": "b"},
-    //   {"label": "190 runs", "value": "c"},
-    //   {"label": "200 runs", "value": "d"}
-    //   ],
-    //   "correctAnswer": "d"
-    //   },
-    //   {
-    //   "question": "The average salary of 10 employees in a company is $5000. If the CEO's salary is $30,000, what will be the new average salary?",
-    //   "answers": [
-    //   {"label": "$5000", "value": "a"},
-    //   {"label": "$6500", "value": "b"},
-    //   {"label": "$7000", "value": "c"},
-    //   {"label": "$7500", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "The average temperature of a city for the first 4 days of the week was 25°C. If the average temperature for the first 3 days was 22°C, what was the temperature on the 4th day?",
-    //   "answers": [
-    //   {"label": "22°C", "value": "a"},
-    //   {"label": "25°C", "value": "b"},
-    //   {"label": "28°C", "value": "c"},
-    //   {"label": "31°C", "value": "d"}
-    //   ],
-    //   "correctAnswer": "d"
-    //   },
-    //   {
-    //   "question": "Sara invests $5000 in a savings account with an annual interest rate of 3%. How much interest will she earn after one year?",
-    //   "answers": [
-    //   {"label": "$150", "value": "a"},
-    //   {"label": "$250", "value": "b"},
-    //   {"label": "$300", "value": "c"},
-    //   {"label": "$350", "value": "d"}
-    //   ],
-    //   "correctAnswer": "a"
-    //   },
-    //   {
-    //   "question": "John borrowed $8000 from a bank with an annual interest rate of 5%. If he repays the loan after two years, how much interest will he pay in total?",
-    //   "answers": [
-    //   {"label": "$800", "value": "a"},
-    //   {"label": "$1000", "value": "b"},
-    //   {"label": "$1600", "value": "c"},
-    //   {"label": "$2000", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "A credit card has an annual interest rate of 18%. If you have an outstanding balance of $2000, how much interest will you be charged after six months?",
-    //   "answers": [
-    //   {"label": "$90", "value": "a"},
-    //   {"label": "$180", "value": "b"},
-    //   {"label": "$270", "value": "c"},
-    //   {"label": "$360", "value": "d"}
-    //   ],
-    //   "correctAnswer": "b"
-    //   },
-    //   {
-    //   "question": "Maria invested $10,000 in a mutual fund with a compound interest rate of 6% per year. How much money will she have after three years?",
-    //   "answers": [
-    //   {"label": "$10,600", "value": "a"},
-    //   {"label": "$11,800", "value": "b"},
-    //   {"label": "$12,600", "value": "c"},
-    //   {"label": "$13,800", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "Find the remainder when 73 × 75 × 78 × 57 × 197 × 37 is divided by 34.",
-    //   "answers": [
-    //   {"label": "9", "value": "a"},
-    //   {"label": "15", "value": "b"},
-    //   {"label": "21", "value": "c"},
-    //   {"label": "27", "value": "d"}
-    //   ],
-    //   "correctAnswer": "a"
-    //   },
-    //   {
-    //   "question": "Find the remainder when 1254 × 678 × 392 × 847 is divided by 23.",
-    //   "answers": [
-    //   {"label": "11", "value": "a"},
-    //   {"label": "14", "value": "b"},
-    //   {"label": "17", "value": "c"},
-    //   {"label": "20", "value": "d"}
-    //   ],
-    //   "correctAnswer": "b"
-    //   },
-    //   {
-    //   "question": "Find the remainder when 879 × 352 × 671 × 429 × 238 is divided by 57.",
-    //   "answers": [
-    //   {"label": "9", "value": "a"},
-    //   {"label": "18", "value": "b"},
-    //   {"label": "27", "value": "c"},
-    //   {"label": "36", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
-    //   {
-    //   "question": "Find the remainder when 612 × 235 × 197 × 459 × 526 is divided by 81.",
-    //   "answers": [
-    //   {"label": "3", "value": "a"},
-    //   {"label": "6", "value": "b"},
-    //   {"label": "9", "value": "c"},
-    //   {"label": "12", "value": "d"}
-    //   ],
-    //   "correctAnswer": "b"
-    //   },
-    //   {
-    //   "question": "Find the remainder when 1489 × 827 × 643 × 429 is divided by 57.",
-    //   "answers": [
-    //   {"label": "1", "value": "a"},
-    //   {"label": "10", "value": "b"},
-    //   {"label": "19", "value": "c"},
-    //   {"label": "28", "value": "d"}
-    //   ],
-    //   "correctAnswer": "c"
-    //   },
+      {
+      "question": "The average score of a cricket team for 5 matches is 180 runs. If the average score for the first 4 matches is 170 runs, what was the score in the 5th match?",
+      "answers": [
+      {"label": "170 runs", "value": "a"},
+      {"label": "180 runs", "value": "b"},
+      {"label": "190 runs", "value": "c"},
+      {"label": "220 runs", "value": "d"}
+      ],
+      "correctAnswer": "d"
+      },
+      {
+      "question": "The average salary of 10 employees in a company is $5000. If the CEO's salary is $30,000, what will be the new average salary?",
+      "answers": [
+      {"label": "$5000.45", "value": "a"},
+      {"label": "$6500.78", "value": "b"},
+      {"label": "$7272.73", "value": "c"},
+      {"label": "$7277.73", "value": "d"}
+      ],
+      "correctAnswer": "c"
+      },
+      {
+      "question": "The average temperature of a city for the first 4 days of the week was 25°C. If the average temperature for the first 3 days was 22°C, what was the temperature on the 4th day?",
+      "answers": [
+      {"label": "22°C", "value": "a"},
+      {"label": "25°C", "value": "b"},
+      {"label": "28°C", "value": "c"},
+      {"label": "34°C", "value": "d"}
+      ],
+      "correctAnswer": "d"
+      },
+      {
+      "question": "Sara invests $5000 in a savings account with an annual interest rate of 3%. How much interest will she earn after one year?",
+      "answers": [
+      {"label": "$150", "value": "a"},
+      {"label": "$250", "value": "b"},
+      {"label": "$300", "value": "c"},
+      {"label": "$350", "value": "d"}
+      ],
+      "correctAnswer": "a"
+      },
+      {
+      "question": "John borrowed $8000 from a bank with an annual interest rate of 5%. If he repays the loan after two years, how much interest will he pay in total?",
+      "answers": [
+      {"label": "$800", "value": "a"},
+      {"label": "$1000", "value": "b"},
+      {"label": "$1600", "value": "c"},
+      {"label": "$2000", "value": "d"}
+      ],
+      "correctAnswer": "a"
+      },
+      {
+      "question": "A credit card has an annual interest rate of 18%. If you have an outstanding balance of $2000, how much interest will you be charged after six months?",
+      "answers": [
+      {"label": "$90", "value": "a"},
+      {"label": "$180", "value": "b"},
+      {"label": "$270", "value": "c"},
+      {"label": "$360", "value": "d"}
+      ],
+      "correctAnswer": "b"
+      },
+      {
+      "question": "Maria invested $10,000 in a mutual fund with a compound interest rate of 6% per year. How much money will she have after three years?",
+      "answers": [
+      {"label": "$10,600", "value": "a"},
+      {"label": "$11,800", "value": "b"},
+      {"label": "$11,910", "value": "c"},
+      {"label": "$13,800", "value": "d"}
+      ],
+      "correctAnswer": "c"
+      },
 
     ];
 

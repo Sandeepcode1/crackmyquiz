@@ -22,7 +22,7 @@
           <a class="nav-link" href="reasoningquiz.php">Reasoning</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">English</a>
+          <a class="nav-link" href="englishquiz.php">English</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">More Quiz</a>
