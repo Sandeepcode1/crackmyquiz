@@ -5,7 +5,8 @@
   <title>CrackMyQuiz - General Knowledge Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 
+
   <style>
     /* add custom styles for mobile */
     @media screen and (max-width: 576px) {
@@ -67,9 +68,36 @@
 
   <script>
     const quizData = [
-    { question: "1. If 'PEN' is coded as 'TIR', how would 'CAT' be coded?", "answers": [{ label: "GZX", value: "a" },{ label: "GEX", value: "b" },{ label: "BXU", value: "c" }, { label: "GZU", value: "d" }],"correctAnswer": "b"},
-	{ question: "2. If 'APPLE' is coded as 'ELPPA', how would 'ORANGE' be coded?", "answers": [{ label: "ENOGRA", value: "a" }, { label: "EGRANO", value: "b" }, { label: "EGNARO", value: "c" }, { label: "EGNORA", value: "d" } ], "correctAnswer": "c" },
-	{ question: "3. If 'BRAVE' is coded as 'CSBWF', how would 'TIGER' be coded?", "answers": [{ label: "UJHGT", value: "a" }, { label: "UJHES", value: "b" }, { label: "UJHFS", value: "c" }, { label: "UJHGR", value: "d" } ], "correctAnswer": "c" },
+    { 
+      question: "1. If 'PEN' is coded as 'QGQ', how would 'CAT' be coded?",
+       "answers": [
+        { label: "DZX", value: "a" },
+        { label: "DCW", value: "b" },
+        { label: "DXU", value: "c" },
+        { label: "DZU", value: "d" }
+        ],
+        "correctAnswer": "b"
+      },
+	 { 
+    question: "2. If 'APPLE' is coded as 'ELPPA', how would 'ORANGE' be coded?",
+     "answers": [
+      { label: "ENOGRA", value: "a" },
+      { label: "EGRANO", value: "b" },
+      { label: "EGNARO", value: "c" },
+      { label: "EGNORA", value: "d" } 
+        ],
+         "correctAnswer": "c" 
+     },
+	{ 
+    question: "3. If 'BRAVE' is coded as 'CSBWF', how would 'TIGER' be coded?", 
+    "answers": [
+      { label: "UJHGT", value: "a" },
+      { label: "UJHES", value: "b" },
+      { label: "UJHFS", value: "c" },
+      { label: "UJHGR", value: "d" } 
+    ], 
+    "correctAnswer": "c" 
+    },
 	{ question: "4. If 'FLOWER' is coded as 'EKNVDQ', how would 'CARROT' be coded?", "answers": [{ label: "BZQCAR", value: "a" }, { label: "BZQQNS", value: "b" }, { label: "RATOCR", value: "c" }, { label: "RATCRO", value: "d" } ], "correctAnswer": "b" },
 	{ question: "5. If 'APPLE' is coded as 'FUUQJ', how would 'ORANGE' be coded?", "answers": [{ label: "RJFCID", value: "a" }, { label: "TWSLLJ", value: "b" }, { label: "TWFSLJ", value: "c" }, { label: "RNQFED", value: "d" } ], "correctAnswer": "c" },
 	{ question: "6. If 'OPENAI' is coded as 'PQFOBH', how would 'CHATGPT' be coded?", "answers": [{ label: "DIBUHQS", value: "a" }, { label: "DIBUHQU", value: "b" }, { label: "DIBUHQW", value: "c" }, { label: "SVZBYSA", value: "d" } ], "correctAnswer": "a" },
