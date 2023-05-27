@@ -21,6 +21,7 @@
 
     .about-image {
       width: 35%;
+      padding-top: 2%;
     }
 
     @media (max-width: 768px) {
@@ -54,6 +55,7 @@
       </div>
     </div>
   </div>
+  <?php include 'footer.php'; ?>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>

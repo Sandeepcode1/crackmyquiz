@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="index.php">CrackMyQuiz</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -24,9 +24,25 @@
         <li class="nav-item">
           <a class="nav-link" href="englishquiz.php">English</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">More Quiz</a>
-        </li>
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="moreQuizDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More Quiz</a>
+        <div class="dropdown-menu" aria-labelledby="moreQuizDropdown">
+          <a class="dropdown-item" href="#">Quiz for IBPS Clerk </a>
+          <a class="dropdown-item" href="#">Quiz for IBPS PO Exam</a>
+          <a class="dropdown-item" href="#">Quiz for Punjab Patwari Exam</a>
+          <a class="dropdown-item" href="#">Button 4</a>
+          <a class="dropdown-item" href="#">Button 5</a>
+          <script>
+            document.addEventListener('DOMContentLoaded', function() {
+              var moreQuizDropdown = document.getElementById('moreQuizDropdown');
+              moreQuizDropdown.addEventListener('click', function() {
+                var submenu = document.querySelector('.dropdown-menu');
+                submenu.classList.toggle('show');
+              });
+            });
+          </script>
+        </div>
+      </li>
         <li class="nav-item">
           <a class="nav-link" href="aboutme.php">About Me</a>
         </li>
@@ -34,9 +50,21 @@
           <a class="nav-link" href="contact.php">Contact</a>
         </li>
       </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+
+      <form class="form-inline my-2 my-lg-0" onsubmit="redirectToGoogle(event)">
+        <input id="searchInput" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
       </form>
     </div>
   </nav>
+
+
+  <script>
+  function redirectToGoogle(event) {
+    event.preventDefault();
+    var searchQuery = document.getElementById('searchInput').value;
+    var siteQuery = 'site:www.crackmyquiz.com';
+    var searchURL = 'https://www.google.com/search?q=' + encodeURIComponent(searchQuery + ' ' + siteQuery);
+    window.open(searchURL, '_blank');
+  }
+</script>

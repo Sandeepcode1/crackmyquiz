@@ -35,13 +35,10 @@
     </div>
   </div>
 
-  <footer class="footer">
-    <div class="container">
-    <p>&copy; <?php echo date('Y'); ?> My Website. All rights reserved.</p>
-    </div>
-    </div>
-  </footer>
+   <?php include 'footer.php'; ?> 
 
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
 </body>
 </html>

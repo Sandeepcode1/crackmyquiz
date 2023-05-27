@@ -20,37 +20,6 @@
       }
     }
 
- /* CSS for the submenus */
-.navbar-nav li:hover .submenu {
-  display: block;
-}
-
-/* CSS to hide the submenus by default */
-.navbar-nav .submenu {
-  display: none;
-  list-style-type: none; /* Remove bullet points */
-}
-
-/* Optional CSS for styling the submenus */
-.navbar-nav .submenu {
-  position: absolute;
-  background-color: #f8f9fa;
-  padding: 10px;
-}
-
-.navbar-nav .submenu li {
-  margin-bottom: 5px;
-}
-
-.navbar-nav .submenu li a {
-  color: #000;
-  text-decoration: none;
-}
-
-.navbar-nav .submenu li a:hover {
-  color: #007bff;
-}
-
   </style>
 </head>
 <body>
@@ -417,7 +386,10 @@
      <div class="pagination">
        <a href="#" class="prev">Prev</a>
        <a href="#" class="next">Next</a>
+       <a href="#" class="currentpage"></a>
      </div>
+
+     <?php include 'footer.php'; ?> 
 <script src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script> 
               <script src="js/style.js"></script>
              

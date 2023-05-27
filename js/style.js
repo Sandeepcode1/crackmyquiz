@@ -1,11 +1,13 @@
 const questionCards = document.querySelectorAll(".card");
 const prevBtn = document.querySelector(".prev");
 const nextBtn = document.querySelector(".next");
+currentpage  = document.querySelector(".currentpage");
 const questionsPerPage = 10;
 let currentPage = 0;
 
 function showPage(pageIndex) {
   for (let i = 0; i < questionCards.length; i++) {
+    currentpage.textContent = " Page " + (pageIndex + 1);
     if (i >= pageIndex * questionsPerPage && i < (pageIndex + 1) * questionsPerPage) {
       questionCards[i].style.display = "block";
     } else {
@@ -42,3 +44,6 @@ showPage(currentPage);
 setActiveButton(currentPage);
 prevBtn.addEventListener("click", handlePrevButtonClick);
 nextBtn.addEventListener("click", handleNextButtonClick);
+
+
+

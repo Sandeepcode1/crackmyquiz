@@ -18,50 +18,15 @@
       .btn {
         font-size: 12px;
       }
+
     }
 
- /* CSS for the submenus */
-.navbar-nav li:hover .submenu {
-  display: block;
-}
-
-/* CSS to hide the submenus by default */
-.navbar-nav .submenu {
-  display: none;
-  list-style-type: none; /* Remove bullet points */
-}
-
-/* Optional CSS for styling the submenus */
-.navbar-nav .submenu {
-  position: absolute;
-  background-color: #f8f9fa;
-  padding: 10px;
-}
-
-.navbar-nav .submenu li {
-  margin-bottom: 5px;
-}
-
-.navbar-nav .submenu li a {
-  color: #000;
-  text-decoration: none;
-}
-
-.navbar-nav .submenu li a:hover {
-  color: #007bff;
-}
-
-  
-.card-deck {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
+ 
   </style>
 </head>
 <body>
 <?php include 'navbar.php'; ?>
-   <div class="card-deck">
+   <div class="card-deck" style="padding-top: 10px; margin:5px;" >
   <div class="card">
   <a href="gkquiz.php">
     <img class="card-img-top" src="images/gkquizzz.png" alt="Card image cap">
@@ -126,17 +91,13 @@
     </div>
   </div>
 </div>
+  </div>
+<?php include 'footer.php'; ?> 
 
-
-<footer class="footer">
-    <div class="container">
-    <p>&copy; <?php echo date('Y'); ?> My Website. All rights reserved.</p>
-    </div>
-    </div>
-  </footer>
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
+
 </html>
