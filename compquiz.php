@@ -497,7 +497,7 @@
             <p class="card-text">${question}</p>
             ${answerHtml}
             <div class="form-group">
-              <button type="button" class="btn btn-primary" onclick="showAnswer(${i})">Show Answer</button>
+            <button type="button" class="btn btn-primary" onclick="showAnswer(${i})" style="margin-top: 10px;">Show Answer</button>
             </div>
             <div id="answer-${i}" style="background-color:silver"></div>
           </div>
@@ -512,6 +512,7 @@
   const selectedValue = document.querySelector(`input[name="question-${questionIndex}"]:checked`);
   const correctAnswer = quizData[questionIndex].correctAnswer;
   const answerDiv = document.querySelector(`#answer-${questionIndex}`);
+ 
 
   answerDiv.style.backgroundColor = "#f9f9f9";
   answerDiv.style.fontSize = "18px";
