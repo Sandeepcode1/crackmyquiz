@@ -640,10 +640,10 @@
 }
 
   </script>
-     <div class="pagination">
+       <div class="pagination">
        <a href="#" class="prev">Prev</a>
        <a href="#" class="next">Next</a>
-       <a href="#" class="currentpage"></a>
+       <a href="#" class="currentpage">Page 1</a>
      </div>
 
      <?php include 'footer.php'; ?>

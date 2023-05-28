@@ -1,5 +1,7 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="index.php">CrackMyQuiz</a>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-color: #000000;">
+    <a class="navbar-brand" href="index.php" style="color: #f8c555; font-weight: bold; font-size: 24px;">CrackMyQuiz</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -30,8 +32,8 @@
           <a class="dropdown-item" href="#">Quiz for IBPS Clerk </a>
           <a class="dropdown-item" href="#">Quiz for IBPS PO Exam</a>
           <a class="dropdown-item" href="#">Quiz for Punjab Patwari Exam</a>
-          <a class="dropdown-item" href="#">Button 4</a>
-          <a class="dropdown-item" href="#">Button 5</a>
+          <a class="dropdown-item" href="sportsquiz.php">Sports Quiz</a>
+          <a class="dropdown-item" href="#">International GK Quiz</a>
           <script>
             document.addEventListener('DOMContentLoaded', function() {
               var moreQuizDropdown = document.getElementById('moreQuizDropdown');

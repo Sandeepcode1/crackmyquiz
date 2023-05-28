@@ -221,10 +221,10 @@
 }
 
   </script>
-     <div class="pagination">
+        <div class="pagination">
        <a href="#" class="prev">Prev</a>
        <a href="#" class="next">Next</a>
-       <a href="#" class="currentpage"></a>
+       <a href="#" class="currentpage">Page 1</a>
      </div>
      <?php include 'footer.php'; ?>
      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

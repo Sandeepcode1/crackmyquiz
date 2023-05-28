@@ -9,3 +9,4 @@
     </ul>
     <p class="text-center text-white">© <?php echo date('Y'); ?> My Website. All rights reserved. </p>
 </footer>
+
