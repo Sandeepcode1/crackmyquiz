@@ -328,6 +328,237 @@
   ],
   "correctAnswer": "d"
 },
+{
+  "question": "30. Which city in Punjab is known as the 'City of Education'?",
+  "answers": [
+    { "label": "Ludhiana", "value": "a" },
+    { "label": "Jalandhar", "value": "b" },
+    { "label": "Amritsar", "value": "c" },
+    { "label": "Patiala", "value": "d" }
+  ],
+  "correctAnswer": "d"
+},
+{
+  "question": "31. The famous 'Jallianwala Bagh' massacre took place in which city of Punjab?",
+  "answers": [
+    { "label": "Ludhiana", "value": "a" },
+    { "label": "Amritsar", "value": "b" },
+    { "label": "Patiala", "value": "c" },
+    { "label": "Jalandhar", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "32. Which famous Punjabi festival marks the birth anniversary of Guru Nanak Dev?",
+  "answers": [
+    { "label": "Lohri", "value": "a" },
+    { "label": "Gurpurab", "value": "b" },
+    { "label": "Baisakhi", "value": "c" },
+    { "label": "Hola Mohalla", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "33. The 'Virasat-e-Khalsa' museum, showcasing Sikh history, is located in which city of Punjab?",
+  "answers": [
+    { "label": "Amritsar", "value": "a" },
+    { "label": "Chandigarh", "value": "b" },
+    { "label": "Patiala", "value": "c" },
+    { "label": "Anandpur Sahib", "value": "d" }
+  ],
+  "correctAnswer": "d"
+},
+{
+  "question": "34. Which Punjabi singer is popularly known as the 'Melody Queen'?",
+  "answers": [
+    { "label": "Nooran Sisters", "value": "a" },
+    { "label": "Miss Pooja", "value": "b" },
+    { "label": "Neha Kakkar", "value": "c" },
+    { "label": "Satinder Sartaaj", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "35. The famous Golden Temple is also known as ________ in Punjabi.",
+  "answers": [
+    { "label": "Sri Harmandir Sahib", "value": "a" },
+    { "label": "Gurudwara Nanak Dev Ji", "value": "b" },
+    { "label": "Takht Sri Patna Sahib", "value": "c" },
+    { "label": "Gurudwara Bangla Sahib", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "36. Which Punjabi folk dance is performed by women during harvest season?",
+  "answers": [
+    { "label": "Bhangra", "value": "a" },
+    { "label": "Giddha", "value": "b" },
+    { "label": "Jhumar", "value": "c" },
+    { "label": "Sammi", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "37. The famous 'Punjab Agricultural University' is located in which city of Punjab?",
+  "answers": [
+    { "label": "Ludhiana", "value": "a" },
+    { "label": "Amritsar", "value": "b" },
+    { "label": "Chandigarh", "value": "c" },
+    { "label": "Patiala", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "38. Which Punjabi dish is a popular street food made with gram flour and served with chutney?",
+  "answers": [
+    { "label": "Sarson ka Saag", "value": "a" },
+    { "label": "Makki di Roti", "value": "b" },
+    { "label": "Amritsari Kulcha", "value": "c" },
+    { "label": "Chole Bhature", "value": "d" }
+  ],
+  "correctAnswer": "d"
+},
+{
+  "question": "39. Which city in Punjab is famous for its traditional 'Phulkari' embroidery?",
+  "answers": [
+    { "label": "Ludhiana", "value": "a" },
+    { "label": "Amritsar", "value": "b" },
+    { "label": "Jalandhar", "value": "c" },
+    { "label": "Patiala", "value": "d" }
+  ],
+  "correctAnswer": "d"
+},
+{
+  "question": "40. Which Sikh festival celebrates the harvest season and marks the start of the solar year?",
+  "answers": [
+    { "label": "Lohri", "value": "a" },
+    { "label": "Vaisakhi", "value": "b" },
+    { "label": "Gurpurab", "value": "c" },
+    { "label": "Hola Mohalla", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "41. The famous 'Fateh Burj' is the tallest victory tower in India and is located in which city of Punjab?",
+  "answers": [
+    { "label": "Patiala", "value": "a" },
+    { "label": "Amritsar", "value": "b" },
+    { "label": "Mohali", "value": "c" },
+    { "label": "Chandigarh", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "42. Who is the famous Punjabi singer known as the 'Voice of Punjab'?",
+  "answers": [
+    { "label": "Gurdas Maan", "value": "a" },
+    { "label": "Diljit Dosanjh", "value": "b" },
+    { "label": "Satinder Sartaaj", "value": "c" },
+    { "label": "Parmish Verma", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "43. The 'Harike Wetland' in Punjab is a famous bird sanctuary located in which district?",
+  "answers": [
+    { "label": "Amritsar", "value": "a" },
+    { "label": "Kapurthala", "value": "b" },
+    { "label": "Ferozepur", "value": "c" },
+    { "label": "Ludhiana", "value": "d" }
+  ],
+  "correctAnswer": "c"
+},
+{
+  "question": "44. The famous 'Virasat-e-Khalsa' museum is dedicated to which Sikh Guru?",
+  "answers": [
+    { "label": "Guru Nanak Dev", "value": "a" },
+    { "label": "Guru Gobind Singh", "value": "b" },
+    { "label": "Guru Ram Das", "value": "c" },
+    { "label": "Guru Arjan Dev", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "45. The historical 'Anandpur Sahib' is associated with which Sikh festival?",
+  "answers": [
+    { "label": "Gurpurab", "value": "a" },
+    { "label": "Hola Mohalla", "value": "b" },
+    { "label": "Baisakhi", "value": "c" },
+    { "label": "Lohri", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+{
+  "question": "46. Who is known as the 'Flying Sikh' and hails from Punjab?",
+  "answers": [
+    { "label": "Milkha Singh", "value": "a" },
+    { "label": "Gurbachan Singh Randhawa", "value": "b" },
+    { "label": "Man Kaur", "value": "c" },
+    { "label": "Harbhajan Singh", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "47. Which Punjabi dish is made from mustard leaves and often served with 'Makki di Roti'?",
+  "answers": [
+    { "label": "Sarson ka Saag", "value": "a" },
+    { "label": "Butter Chicken", "value": "b" },
+    { "label": "Aloo Paratha", "value": "c" },
+    { "label": "Paneer Tikka", "value": "d" }
+  ],
+  "correctAnswer": "a"
+},
+{
+  "question": "48. The 'Phagwara' city of Punjab is known for which famous educational institution?",
+  "answers": [
+    { "label": "Punjab Agricultural University", "value": "a" },
+    { "label": "Thapar Institute of Engineering and Technology", "value": "b" },
+    { "label": "Lovely Professional University", "value": "c" },
+    { "label": "Guru Nanak Dev University", "value": "d" }
+  ],
+  "correctAnswer": "c"
+},
+{
+  "question": "49. The 'Shaheed Bhagat Singh Museum' is located in which city of Punjab?",
+  "answers": [
+    { "label": "Amritsar", "value": "a" },
+    { "label": "Ludhiana", "value": "b" },
+    { "label": "Jalandhar", "value": "c" },
+    { "label": "Ferozepur", "value": "d" }
+  ],
+  "correctAnswer": "c"
+},
+{
+  "question": "50. Which Punjabi city is famous for its traditional 'Juttis' (handcrafted shoes)?",
+  "answers": [
+    { "label": "Patiala", "value": "a" },
+    { "label": "Amritsar", "value": "b" },
+    { "label": "Ludhiana", "value": "c" },
+    { "label": "Jalandhar", "value": "d" }
+  ],
+  "correctAnswer": "b"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

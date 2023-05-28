@@ -32,7 +32,7 @@
           <a class="dropdown-item" href="ibpsclerkquiz.php">Quiz for IBPS Clerk/PO </a>
           <a class="dropdown-item" href="punjabpatwari.php">Quiz for Punjab Patwari Exam</a>
           <a class="dropdown-item" href="sportsquiz.php">Sports Quiz</a>
-          <a class="dropdown-item" href="#">International GK Quiz</a>
+       
           <script>
             document.addEventListener('DOMContentLoaded', function() {
               var moreQuizDropdown = document.getElementById('moreQuizDropdown');
