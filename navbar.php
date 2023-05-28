@@ -29,9 +29,8 @@
         <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="moreQuizDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More Quiz</a>
         <div class="dropdown-menu" aria-labelledby="moreQuizDropdown">
-          <a class="dropdown-item" href="#">Quiz for IBPS Clerk </a>
-          <a class="dropdown-item" href="#">Quiz for IBPS PO Exam</a>
-          <a class="dropdown-item" href="#">Quiz for Punjab Patwari Exam</a>
+          <a class="dropdown-item" href="ibpsclerkquiz.php">Quiz for IBPS Clerk/PO </a>
+          <a class="dropdown-item" href="punjabpatwari.php">Quiz for Punjab Patwari Exam</a>
           <a class="dropdown-item" href="sportsquiz.php">Sports Quiz</a>
           <a class="dropdown-item" href="#">International GK Quiz</a>
           <script>
