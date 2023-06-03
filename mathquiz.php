@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - Math Quiz">
+  <meta name="description" content="Test your math skills with the Math Quiz. Solve arithmetic problems and improve your knowledge.">
+  <meta name="keywords" content="Math Quiz, Arithmetic Quiz, Competitive Exams, General Knowledge, Math Problems">
+  <meta name="author" content="Ceo for math">
+  <title>CrackMyQuiz - Math Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

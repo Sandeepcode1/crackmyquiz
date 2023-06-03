@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="title" content="crackmyquiz - Test your knowledge with quizzes on GK, Math, Reasoning, and more">
+  <meta name="description" content="crackmyquiz is a website that offers a variety of quizzes on general knowledge, math, reasoning, and more. Test your knowledge and challenge yourself with our challenging quizzes.">
+  <meta name="keywords" content="quiz, general knowledge, math, reasoning, competitive exams">
+  <meta name="author" content="CEO of crackmyquiz">
   <title>CrackMyQuiz - Home</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="css/style.css">

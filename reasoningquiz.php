@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - reasoning  quiz">
+  <meta name="description" content="Test your reasoning skills with the Reasoning Quiz. Solve coding and decoding problems and improve your logical thinking.">
+  <meta name="keywords" content="Reasoning Quiz, Coding Decoding, Logical Reasoning, Competitive Exams, General Knowledge">
+  <meta name="author" content="Your Name">
+  <title>CrackMyQuiz - Reasoning Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

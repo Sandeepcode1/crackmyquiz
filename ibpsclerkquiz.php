@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - online quiz">
+  <meta name="description" content="Take the IBPS Clerk Questions Quiz to test your knowledge and prepare for the IBPS Clerk and PO exams.">
+  <meta name="keywords" content="IBPS Clerk, IBPS Clerk Quiz, IBPS PO, Competitive Exams, General Knowledge Quiz">
+  <meta name="author" content="ceo for crackmyquiz">
+  <title>CrackMyQuiz - IBPS CLERK/PO QUIZ</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="description" content="Test your sports knowledge with the Sports Quiz. Answer questions about various sports and challenge your friends.">
+  <meta name="keywords" content="Sports Quiz, Sports Trivia, Sports Knowledge, Competitive Exams, General Knowledge">
+  <meta name="author" content="Sports quiz website">
   <title>CrackMyQuiz - General Knowledge Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">

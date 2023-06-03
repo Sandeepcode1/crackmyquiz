@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - History Quiz">
+  <meta name="description" content="Test your knowledge of history with the CrackMyQuiz History Quiz! Explore historical events, famous figures, and important dates. Prepare for exams and enhance your understanding of the past.">
+  <meta name="keywords" content="crackmyquiz quiz, History quiz, historical events, famous figures, important dates, exams">
+  <meta name="author" content="CEO of crackmyquiz">
+  <title>CrackMyQuiz - History Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - English Quiz">
+  <meta name="description" content="Test your English language skills with the CrackMyQuiz English Quiz! Explore antonyms and enhance your vocabulary. Prepare for competitive exams like IBPS Clerk, IBPS PO, Railway exams, and other Indian competitive exams.">
+  <meta name="keywords" content="crackmyquiz, quiz, English quiz, antonyms, vocabulary, IBPS Clerk, IBPS PO, Railway exams, competitive exams">
+  <meta name="author" content="CEO of crackmyquiz">
+  <title>CrackMyQuiz - English Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

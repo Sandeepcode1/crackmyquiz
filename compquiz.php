@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="title" content="crackmyquiz - Computer Quiz">
+  <meta name="description" content="Test your knowledge with the CrackMyQuiz Computer Quiz! Explore questions about the World Wide Web, computer science, programming languages, URLs, operating systems, and more. Challenge yourself and enhance your computer knowledge.">
+  <meta name="keywords" content="\crackmyquiz, quiz, computer quiz, World Wide Web, computer science, programming languages, URLs, operating systems">
+  <meta name="author" content="CEO of crackmyquiz">
+  <title>CrackMyQuiz - Computer Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

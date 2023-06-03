@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="title" content="crackmyquiz - General Knowledge Quiz">
+  <meta name="description" content="Test your general knowledge with crackmyquiz! Take quizzes on various topics including GK, competitive exams, IBPS, Clerk, Punjab Patwari, Railway, SSC, and more. Challenge yourself and enhance your knowledge.">
+  <meta name="keywords" content="CrackMyQuiz, quiz, general knowledge, competitive exams, IBPS, Clerk, Punjab Patwari, Railway, SSC">
+  <meta name="author" content="CEO of crackmyquiz">
   <title>CrackMyQuiz - General Knowledge Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -1504,6 +1508,556 @@ correctAnswer: "c"
     { label: "Watt", value: "d" }
   ],
   correctAnswer: "b"
+},
+{
+  question: "147. Indian cancer research institute is located at ?",
+  answers: [
+    { label: "New Delhi", value: "a" },
+    { label: "Kolkata", value: "b" },
+    { label: "Gurugram", value: "c" },
+    { label: "Mumbai", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "148. The city of Nasik is situated on the bank of which one of the following rivers ?",
+  answers: [
+    { label: "Krishna", value: "a" },
+    { label: "Mandovi", value: "b" },
+    { label: "Godavari", value: "c" },
+    { label: "Tapi", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "149. Which one of the following is soft?",
+  answers: [
+    { label: "Sodium", value: "a" },
+    { label: "Iron", value: "b" },
+    { label: "Lithium", value: "c" },
+    { label: "Aluminium", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "150. Which one of the following cab be called as a part of the Service Sector?",
+  answers: [
+    { label: "Banking", value: "a" },
+    { label: "Agriculture", value: "b" },
+    { label: "Coal mines", value: "c" },
+    { label: "Textile mills", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "151. The first Railway train 'ran' in India, from Bombay to Thane , on April 16 in?",
+  answers: [
+    { label: "1855", value: "a" },
+    { label: "1853", value: "b" },
+    { label: "1857", value: "c" },
+    { label: "1947", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "152. What is the most universal form of transport?",
+  answers: [
+    { label: "Road", value: "a" },
+    { label: "River", value: "b" },
+    { label: "Railway", value: "c" },
+    { label: "Pipeline", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "153. The National Design Institute is located at?",
+  answers: [
+    { label: "Patiala", value: "a" },
+    { label: "Chandigarh", value: "b" },
+    { label: "Dehradun", value: "c" },
+    { label: "Ahmedabad", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "154. Which of the following port is also called 'Jawaharlal Nehru Port'?",
+  answers: [
+    { label: "Chennai", value: "a" },
+    { label: "Chandigarh", value: "b" },
+    { label: "Navaseva", value: "c" },
+    { label: "Kandla", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "155. Sikhism was found in '?",
+  answers: [
+    { label: "1000 AD", value: "a" },
+    { label: "1500 AD", value: "b" },
+    { label: "300 BC", value: "c" },
+    { label: "1400 AD", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "156. When the design of Indian flag first adopted by the Government of India '?",
+  answers: [
+    { label: "July 22, 1947", value: "a" },
+    { label: "August 15, 1947", value: "b" },
+    { label: "Junuary 26, 1947", value: "c" },
+    { label: "Midnight of August 14, 1947", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "157. Who was the founder of Arya Samaj ?",
+  answers: [
+    { label: "Swami Vivekananda", value: "a" },
+    { label: "Swami Dayananda", value: "b" },
+    { label: "Sri Shankaracharya", value: "c" },
+    { label: "None of these", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "158. January 15 is celebrated as ?",
+  answers: [
+    { label: "Army Day", value: "a" },
+    { label: "Makar Sakranti", value: "b" },
+    { label: "Republic Day", value: "c" },
+    { label: "Velentine Day", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "159. The first Indian woman to Commander a jet is ?",
+  answers: [
+    { label: "Seema Kapoor", value: "a" },
+    { label: "Harpreet Ahluwalia", value: "b" },
+    { label: "Niryat Rai", value: "c" },
+    { label: "Saudamini Deshmukh", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "160. 'Panchatantra' was written by?",
+  answers: [
+    { label: "Bhasa", value: "a" },
+    { label: "Jaya Deva", value: "b" },
+    { label: "Vishnu Sharma", value: "c" },
+    { label: "Banabhatta", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "161. who was responsible for Jaliawala Bagh Tragedy?",
+  answers: [
+    { label: "J.F Rehill", value: "a" },
+    { label: "O' Dwyer", value: "b" },
+    { label: "General Dyer", value: "c" },
+    { label: "Miles lrving", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "162. When was the Swadwshi Movement launched in India?",
+  answers: [
+    { label: "1919", value: "a" },
+    { label: "1910", value: "b" },
+    { label: "1905", value: "c" },
+    { label: "1947", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "163. Who was called the modern Rishi?",
+  answers: [
+    { label: "Swami Ramdev", value: "a" },
+    { label: "Swami Dayananda", value: "b" },
+    { label: "B.G Tilak", value: "c" },
+    { label: "M.G Ranade", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "164. Izhewaz community was related to which state?",
+  answers: [
+    { label: "Kerala", value: "a" },
+    { label: "Punjab", value: "b" },
+    { label: "Manipur", value: "c" },
+    { label: "Tamil Nadu", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "165. According to Gandhiji Harijan means",
+  answers: [
+    { label: "Children of God", value: "a" },
+    { label: "People of God", value: "b" },
+    { label: "People of Moon", value: "c" },
+    { label: "Children of Sun", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "166. When was Remarriage Act Passed?",
+  answers: [
+    { label: "1853", value: "a" },
+    { label: "1857", value: "b" },
+    { label: "1818", value: "c" },
+    { label: "1856", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "167. Where did Raja Ram Mohan Roy take birth?",
+  answers: [
+    { label: "Kolkata", value: "a" },
+    { label: "Delhi", value: "b" },
+    { label: "Punjab", value: "c" },
+    { label: "Nagaland", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "168. Who used the word 'Harijan' for low caste people?",
+  answers: [
+    { label: "Ambedkar", value: "a" },
+    { label: "Kiran Bedi", value: "b" },
+    { label: "Mahatma Gandhi", value: "c" },
+    { label: "Jawahar Lal Nehru", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "160. Sati Pratha was:?",
+  answers: [
+    { label: "Woman was cremated with her husband", value: "a" },
+    { label: "Woman was married again", value: "b" },
+    { label: "Husband died at the death of wife", value: "c" },
+    { label: "All", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "170. When was Sati Pratha banned?",
+  answers: [
+    { label: "1829", value: "a" },
+    { label: "1838", value: "b" },
+    { label: "1828", value: "c" },
+    { label: "1836", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "171. Against whom Raja Ram Mohan Roy started his revolt?",
+  answers: [
+    { label: "Sati Pratha", value: "a" },
+    { label: "Caste System", value: "b" },
+    { label: "Parda Pratha", value: "c" },
+    { label: "Polygamy System", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "172. The meaning of Sati?",
+  answers: [
+    { label: "Brave lady", value: "a" },
+    { label: "Honest lady", value: "b" },
+    { label: "True lady", value: "c" },
+    { label: "None", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "173. Who was governor-general when the 1857 revolt broke out?",
+  answers: [
+    { label: "Dalhousie", value: "a" },
+    { label: "Canning", value: "b" },
+    { label: "Curzon", value: "c" },
+    { label: "Lawrence", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "174. Who was governor-general when the 1857 revolt broke out?",
+  answers: [
+    { label: "Dalhousie", value: "a" },
+    { label: "Canning", value: "b" },
+    { label: "Curzon", value: "c" },
+    { label: "Lawrence", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "175. Who was the first martyr of 1857 revolt?",
+  answers: [
+    { label: "Bahadur Shah", value: "a" },
+    { label: "Tantya Tope", value: "b" },
+    { label: "Mangal Pandey", value: "c" },
+    { label: "Rani Jhansi", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "176. Who was the founder of Permanent Settlement?",
+  answers: [
+    { label: "Thomas Munro", value: "a" },
+    { label: "Lord Carnwalis", value: "b" },
+    { label: "George Barlow", value: "c" },
+    { label: "Captain Read", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "177. Who was the author of Geet Gobind?",
+  answers: [
+    { label: "Vidyapati", value: "a" },
+    { label: "Surdas", value: "b" },
+    { label: "Jaya Deva", value: "c" },
+    { label: "Mirabai", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "178. The book Geography is written by:?",
+  answers: [
+    { label: "Herdotus", value: "a" },
+    { label: "Aristotle", value: "b" },
+    { label: "Tolstoy", value: "c" },
+    { label: "Eretoskhneej", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "179. The term 'nife' refers to:?",
+  answers: [
+    { label: "Earthquakes", value: "a" },
+    { label: "Core of the earth", value: "b" },
+    { label: "Crust of the earth", value: "c" },
+    { label: "Humboldt Current", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "180. The total area of India is about:?",
+  answers: [
+    { label: "31 lakh sq. km", value: "a" },
+    { label: "33 lakh sq. km", value: "b" },
+    { label: "32 lakh sq. km", value: "c" },
+    { label: "35 lakh sq. km", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "181. The is the air weight is called:?",
+  answers: [
+    { label: "Atmosphere", value: "a" },
+    { label: "Air Pressure", value: "b" },
+    { label: "Air Waves", value: "c" },
+    { label: "None of these", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "182. Nehru Stadium is located at:?",
+  answers: [
+    { label: "Kolkata", value: "a" },
+    { label: "Mumbai", value: "b" },
+    { label: "Chennai", value: "c" },
+    { label: "New Delhi", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "183. 'Shivaji' Hockey Stadium is located at:?",
+  answers: [
+    { label: "Mumbai", value: "a" },
+    { label: "Chennai", value: "b" },
+    { label: "Kanpur", value: "c" },
+    { label: "New Delhi", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "184. Aga khan cup is associated with:?",
+  answers: [
+    { label: "Hockey", value: "a" },
+    { label: "Football", value: "b" },
+    { label: "Polo", value: "c" },
+    { label: "Crickey", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "185. Davis cup is associated with:?",
+  answers: [
+    { label: "Hockey", value: "a" },
+    { label: "Lawn Tennis", value: "b" },
+    { label: "Polo", value: "c" },
+    { label: "Crickey", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "186. Durand cup is associated with:?",
+  answers: [
+    { label: "Hockey", value: "a" },
+    { label: "Lawn Tennis", value: "b" },
+    { label: "Football", value: "c" },
+    { label: "Crickey", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "187. Rangaswami cup is associated with:?",
+  answers: [
+    { label: "National Hockey Championship", value: "a" },
+    { label: "Lawn Tennis", value: "b" },
+    { label: "Football", value: "c" },
+    { label: "Crickey", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "188. Dhyan Chand Trophy is associated with:?",
+  answers: [
+    { label: "Hockey", value: "a" },
+    { label: "Lawn Tennis", value: "b" },
+    { label: "Football", value: "c" },
+    { label: "Crickey", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "189. Rubella virus causes:?",
+  answers: [
+    { label: "Chicken pox", value: "a" },
+    { label: "Measles", value: "b" },
+    { label: "Small pox", value: "c" },
+    { label: "Mumps", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "190. Which vitamin helps in the clotting of blood:?",
+  answers: [
+    { label: "Vitamin A", value: "a" },
+    { label: "Vitamin D", value: "b" },
+    { label: "Vitamin C", value: "c" },
+    { label: "Vitamin E", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "191. The disease which is known as Break borne fever:?",
+  answers: [
+    { label: "JE", value: "a" },
+    { label: "Dengue", value: "b" },
+    { label: "Typhoid", value: "c" },
+    { label: "Measles", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "192. Which one is a viral disease?",
+  answers: [
+    { label: "Cholera", value: "a" },
+    { label: "Typhoid", value: "b" },
+    { label: "Rabies", value: "c" },
+    { label: "Whooping cough", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "193. Which one is a viral disease?",
+  answers: [
+    { label: "Cholera", value: "a" },
+    { label: "Typhoid", value: "b" },
+    { label: "Rabies", value: "c" },
+    { label: "Whooping cough", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "194. During AIDS how many cells are reduced:?",
+  answers: [
+    { label: "Till Eight", value: "a" },
+    { label: "Till Hundred", value: "b" },
+    { label: "Till Tenth", value: "c" },
+    { label: "Till Thousand", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "195. The useful age of atom plant is:?",
+  answers: [
+    { label: "3 year", value: "a" },
+    { label: "6 year", value: "b" },
+    { label: "24 year", value: "c" },
+    { label: "12 year", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "196. The number of birds in the world is:?",
+  answers: [
+    { label: "86000", value: "a" },
+    { label: "60000", value: "b" },
+    { label: "12000", value: "c" },
+    { label: "78000", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "197. The forest are source of:?",
+  answers: [
+    { label: "Air", value: "a" },
+    { label: "Natural", value: "b" },
+    { label: "Water", value: "c" },
+    { label: "All of the above", value: "d" }
+  ],
+  correctAnswer: "b"
+},
+{
+  question: "198. Which is we use as fuel:?",
+  answers: [
+    { label: "Petrol", value: "a" },
+    { label: "Coal", value: "b" },
+    { label: "Diesel", value: "c" },
+    { label: "All of the above", value: "d" }
+  ],
+  correctAnswer: "d"
+},
+{
+  question: "199. Which months in India 80% rain comes:?",
+  answers: [
+    { label: "January to March", value: "a" },
+    { label: "April to August", value: "b" },
+    { label: "June to September", value: "c" },
+    { label: "None of these", value: "d" }
+  ],
+  correctAnswer: "c"
+},
+{
+  question: "200. Tree make our air:?",
+  answers: [
+    { label: "Pure", value: "a" },
+    { label: "Dirty", value: "b" },
+    { label: "Polluted", value: "c" },
+    { label: "None of these", value: "d" }
+  ],
+  correctAnswer: "a"
+},
+{
+  question: "201. Climate effects most:?",
+  answers: [
+    { label: "Vegitable", value: "a" },
+    { label: "Work", value: "b" },
+    { label: "Crops", value: "c" },
+    { label: "All of these", value: "d" }
+  ],
+  correctAnswer: "d"
 },
 
     ];
