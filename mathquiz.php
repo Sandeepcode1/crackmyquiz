@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="title" content="crackmyquiz - Math Quiz">
-  <meta name="description" content="Test your math skills with the Math Quiz. Solve arithmetic problems and improve your knowledge.">
-  <meta name="keywords" content="Math Quiz, Arithmetic Quiz, Competitive Exams, General Knowledge, Math Problems">
-  <meta name="author" content="Ceo for math">
+  <meta name="description" content="Test your math skills with the CrackMyQuiz Math Quiz!. Solve arithmetic problems and improve your knowledge.">
+  <meta name="keywords" content="Math Quiz, IBPS Clerk, IBPS PO, Arithmetic Quiz, Competitive Exams, General Knowledge, Math Problems">
+  <meta name="author" content="CrackMyQuiz">
   <title>CrackMyQuiz - Math Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">

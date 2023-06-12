@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <title>CrackMyQuiz - General Knowledge Quiz</title>
+  <meta name="description" content="CrackMyQuiz offers a General Knowledge Quiz for Patwari exams. Test your knowledge with our interactive quiz and prepare for the Patwari exams.">
+  <meta name="keywords" content="General Knowledge Quiz, Patwari exams, competitive exams, crackmyquiz">
+  <meta name="author" content="CrackMyQuiz">
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css"> 

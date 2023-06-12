@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="title" content="crackmyquiz - General Knowledge Quiz">
-  <meta name="description" content="Test your general knowledge with crackmyquiz General Knowledge Quiz! Take quizzes on various topics including GK, competitive exams, IBPS, Clerk, Punjab Patwari, Railway, SSC, and more. Challenge yourself and enhance your knowledge.">
-  <meta name="keywords" content="CrackMyQuiz, quiz, general knowledge, competitive exams, IBPS, Clerk, Punjab Patwari, Railway, SSC">
-  <meta name="author" content="CEO of crackmyquiz">
+  <meta name="description" content="CrackMyQuiz is a website offering general knowledge quizzes for banking and competitive exams. Test your knowledge and prepare for your exams with our interactive quizzes.">
+  <meta name="keywords" content="general knowledge quiz, banking exams, competitive exams, crackmyquiz, gk, gk for competitive exams, gk questions, gk test">
+  <meta name="author" content="CrackMyQuiz">
   <title>CrackMyQuiz - General Knowledge Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">

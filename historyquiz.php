@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="title" content="crackmyquiz - History Quiz">
-  <meta name="description" content="Test your knowledge of history with the CrackMyQuiz History Quiz! Explore historical events, famous figures, and important dates. Prepare for exams and enhance your understanding of the past.">
-  <meta name="keywords" content="crackmyquiz quiz, History quiz, historical events, famous figures, important dates, exams">
-  <meta name="author" content="CEO of crackmyquiz">
+  <meta name="description" content="CrackMyQuiz offers a history quiz for various competitive exams such as IBPS Clerk, IBPS PO, Patwari, and government job exams. Test your knowledge of history with our interactive quiz and prepare for your exams.">
+  <meta name="keywords" content="history quiz, competitive exams, IBPS Clerk, IBPS PO, Patwari, government job exams, India History, History for IAS exam, History for exams, crackmyquiz">
+  <meta name="author" content="CrackMyQuiz">
   <title>CrackMyQuiz - History Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="css/style.css">
